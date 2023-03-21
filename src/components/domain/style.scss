@@ -1,0 +1,18 @@
+.mainDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    img {
+        width: 700px;
+        height: 500px;
+    }
+    h2{
+        color: aliceblue;
+        padding-bottom: 20px;
+    }
+    p {
+        padding-right: 120px;
+        padding-bottom: 30px;
+        color: aliceblue;
+    }
+}
